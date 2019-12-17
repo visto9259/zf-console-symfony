@@ -1,5 +1,5 @@
 {
-    "name": "visto9259/zf-symfony-console",
+    "name": "visto9259/zf-console-symfony",
     "description": "A Zend Framework Console application based on Symfony Console",
     "type": "library",
     "require": {
