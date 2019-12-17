@@ -15,5 +15,10 @@
             "name": "Eric Richer",
             "email": "eric.richer@vistoconsulting.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "ZfSymfonyConsole\\" : "src"
+        }
+    }
 }
