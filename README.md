@@ -19,7 +19,7 @@ Run the following `composer` command:
 Or, alternatively, manually add the following to your `composer.json`, in the `require` section:
 
     "require" : {
-        "visto9259/zf-console-symfony" : "^0.1.0"
+        "visto9259/zf-console-symfony" : "^1.0.0"
     }
 
 And then run `composer update` to ensure the module is installed.
