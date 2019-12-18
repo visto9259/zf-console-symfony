@@ -1,8 +1,13 @@
 <?php
 
+/**
+ * @see       https://github.com/visto9259/zf-console-symfony for the canonical source repository
+ * @copyright Copyright (c) 2019 Eric Richer (eric.richer@vistoconsulting.com)
+ * @license   https://github.com/visto9259/zf-console-symfony/LICENSE GNU GENERAL PUBLIC LICENSE
+ */
+
 
 namespace ZFSymfonyConsole;
-
 
 use Symfony\Component\Console\Command\Command;
 use Zend\ServiceManager\ServiceManager;
