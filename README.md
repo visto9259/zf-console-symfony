@@ -1,3 +1,7 @@
+> This pacakged is deprecated and no longer supported
+
+> Use [laminas-console-symfony](https://github.com/visto9259/laminas-console-symfony) instead.
+>
 # Zf-Console-Symfony: A ZF3 console app using Symfony Console
 
 ## Introduction
